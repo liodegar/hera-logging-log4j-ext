@@ -4,14 +4,14 @@ This is an Hera Logging Framework extension in order to use Log4J as the underly
 
 ## Getting Started
 
-The hera-logging-log4j-ext.jar contains all the classes and configuration files required to enable this extension. This jar contains `hera-logging.properties' and
+The `hera-logging-log4j-ext.jar` contains all the classes and configuration files required to enable this extension. This jar contains `hera-logging.properties` and
 a basic `log4j2.properties`, which you should remove if you already have defined a lo4j configuration file.
 
-### Using Hera Logging Framework
+### Using Hera Logging Log4 Extension
 
 
 #### Setup
-   You need to include the hera-logging.jar and hera-logging-log4j-ext.jar in the classpath.
+   You need to include the `hera-logging.jar` and `hera-logging-log4j-ext.jar` in the classpath.
 
 #### Usage
 
